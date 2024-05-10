@@ -1,9 +1,9 @@
 public class Main {
 
     public static void main(String[] args) {
-        Salas sala1 = new Salas("Sala 1", 1, 2, 1);
+        Salas sala1 = new Salas("Sala 1", 1, 2, 2);
         Salas sala2 = new Salas("Sala 2", 1, 1, 0);
-        Salas sala3 = new Salas("Sala 3", 2, 2, 3);
+        Salas sala3 = new Salas("Sala 3", 2, 2, 4);
 
         System.out.println("Escolha a sala para defender: " +
                 "\n" +
